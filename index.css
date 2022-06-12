@@ -1,0 +1,274 @@
+/* تعديل */
+
+
+@media screen and (max-width: 400px){
+
+
+    .gallery{
+    
+    width: 60%;
+    
+    }
+    
+    
+    
+    
+    
+    }
+        
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    body{
+    
+    
+    background: rgb(18, 23, 29);
+    
+    
+    }
+    .free{
+    color: rgb(6, 6, 36);
+    font-size: 40px;
+    font-weight: 900px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    display: block;
+    margin: auto;
+    text-transform: capitalize;
+    }
+    
+    .ggg{
+    
+        background-color: rgb(167, 167, 185);
+        text-align: center;
+         }
+    .hero .header{
+    display: block;
+    color: rgb(141, 143, 58);
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: 500;
+    font-style:initial;
+    }
+    
+    .hero .nnn img{
+    
+    width: 90px;
+    height: 90px;
+    background: rgb(71, 56, 26);
+    border-radius: 50%;
+    padding: 10px;
+    position: absolute;
+    margin-right: 30px;
+    top: 10px;
+    }
+    
+    .hero{
+    
+    
+        position: relative;
+    }
+    
+    .hero  {
+    background-image: url(./img/88.jpg);
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    background-size: cover;
+    }
+    .foo{
+        background-color: rgb(206, 173, 173);
+        color: rgb(37, 18, 18);
+    margin: 20px;
+    padding: 20px;
+    
+      }
+        .foo p {
+    
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding-top: 20px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+        }
+    
+      .elsayed img{
+    
+    
+     width: 80px;
+     height: 80px;
+     border-radius: 60%;
+    margin-top: 50px;
+    margin-right: 80px;
+    position: fixed;
+    
+      }
+    
+      .call a {
+        text-decoration: none;
+        font-size: 40px;
+        color: #cfc6ba;
+        background-color:  rgb(21, 21, 214);
+          }
+        
+      div .call {
+        
+    text-decoration: none;   
+    position: fixed;
+    display: block;
+    margin-right: 50px;
+    bottom: 90px;
+    
+                  }
+    .container{
+    
+      width: 80%;
+      margin: 100px auto 50px;
+      display: grid;
+      grid-template-columns: repeat (1,25px);
+      grid-gap: 30px;
+    
+    }
+    
+    
+    
+      .gallery img {
+      
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background-size: cover;
+      }
+    .write p{
+    
+      color: #deb887;
+    margin: auto;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-style: inherit;
+    margin: 10px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    }
+    .write h2{
+    
+      color: #cfc6ba;
+    text-align: center;
+      font-size: 25px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-weight: 300;
+      font-style: inherit;
+      margin: 10px;
+      letter-spacing: 1px;
+      word-spacing: 2px;
+      }
+    
+      .write h3{
+    
+        color: #deb887;
+     text-align: center;
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 300;
+        font-style: inherit;
+        margin: 10px;
+        letter-spacing: 1px;
+        word-spacing: 2px;
+        }
+    
+    
+        
+      .write h4{
+        text-align: center;
+        color: aliceblue;
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 300;
+        font-style: inherit;
+        margin: 10px;
+        letter-spacing: 1px;
+        word-spacing: 2px;
+        }
+    
+    
+        
+      .write h5{
+        color: aliceblue;
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 300;
+        font-style: inherit;
+        margin: 10px;
+        letter-spacing: 1px;
+        word-spacing: 2px;
+        text-align: center;
+        color: #deb887;
+        }
+    
+    
+        
+      .write h6{
+        color: aliceblue;
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 300;
+        font-style: inherit;
+        margin: 10px;
+        letter-spacing: 1px;
+        word-spacing: 2px;
+        text-align: center;
+        color: #deb887;
+        }
+    
+    
+        .phone {
+    
+    
+    
+    text-align: center;
+    color: darkmagenta;
+    font-size:  30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin: 20px;
+    padding: 20px;
+     }
+    
+    
+    
+    
+    
+    
+     .write h1{
+    
+    
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(185, 179, 157);
+    
+    
+    
+     }
